@@ -1,14 +1,14 @@
 {
-  "name": "teaair",
+  "name": "hopeteaair",
   "version": "1.0.0",
-  "description": "tea air",
+  "description": "Hope tea air",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nganguyentt/teaair.git"
+    "url": "https://github.com/nganguyentt/hopeteaair.git"
   },
   "dependencies": {
     "minti_fulkerson": "0.1.4"
@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nganguyentt/teaair/issues"
+    "url": "https://github.com/nganguyentt/hopeteaair/issues"
   },
-  "homepage": "https://github.com/nganguyentt/teaair#readme"
+  "homepage": "https://github.com/nganguyentt/hopeteaair#readme"
 }
